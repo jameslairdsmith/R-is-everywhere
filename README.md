@@ -18,4 +18,4 @@ A number of sources have proved useful for finding out where R is used. They are
 * If the organisation has its own Github repository.
 * Job postings by organisations asking candidates to have experience in R
 
-This list is by no means exhaustive. If have other sources, including your own experiences, feel free to use those.
+This list is by no means exhaustive. If you have other sources, including your own experiences, feel free to use those.
